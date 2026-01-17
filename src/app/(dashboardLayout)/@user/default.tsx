@@ -1,7 +1,7 @@
 export default function UserDefault() {
   return (
     <div>
-      <h1>Admin Default</h1>
+      <h1>user Default</h1>
     </div>
   );
 }
